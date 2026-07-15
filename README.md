@@ -1,3 +1,4 @@
+<img width="1920" height="1080" alt="Captura de tela de 2026-07-14 22-35-04" src="https://github.com/user-attachments/assets/ce3136de-05e1-4924-9c78-ef4eb4550e41" />
 # automacao-estoque-make# Sistema Automatizado de Controle de Estoque e Compras
 
 ## 🎯 O Problema
